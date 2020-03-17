@@ -1,3 +1,3 @@
 class Owner
-  attr_writer :name
+  attr_accessor :name
 end
